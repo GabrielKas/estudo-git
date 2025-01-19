@@ -1,2 +1,3 @@
 Citricas: Laranja, Limão, Bergamota, Tangerina, Lima;
 Vermelhas: Framboesas, Morangos, Amoras
+Tropicais: Abacaxi, Manga, Papaya, Coco, Banana
