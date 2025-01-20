@@ -1,3 +1,8 @@
 Citricas: Laranja, Limão, Bergamota, Tangerina, Lima;
 Vermelhas: Framboesas, Morangos, Amoras
+<<<<<<< HEAD
 Brasileiras: Acerola, Jabuticaba 
+=======
+Tropicais: Abacaxi, Manga, Papaya, Coco, Banana
+Drupas: Pêssegos, Ameixas, Cerejas, Damasco, Nectarinas
+>>>>>>> f4ce40cd1fce9683f382d1aa4614e9b435bfcf99
