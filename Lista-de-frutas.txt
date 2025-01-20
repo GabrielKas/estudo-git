@@ -1,5 +1,5 @@
 Citricas: Laranja, Limão, Bergamota, Tangerina, Lima;
-Vermelhas: Framboesas, Morangos, Amoras
-Tropicais: Abacaxi, Manga, Papaya, Coco, Banana
-Drupas: Pêssegos, Ameixas, Cerejas, Damasco, Nectarinas
-Brasileiras: Acerola, Jabuticaba 
+Vermelhas: Framboesas, Morangos, Amoras;
+Tropicais: Abacaxi, Manga, Papaya, Coco, Banana;
+Drupas: Pêssegos, Ameixas, Cerejas, Damasco, Nectarinas;
+Brasileiras: Acerola, Jabuticaba;
